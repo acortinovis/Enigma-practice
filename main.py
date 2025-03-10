@@ -22,4 +22,4 @@ def sand_maker(items: list):
 
 sand_maker(items=['cheese'])
 sand_maker(items=['cheese,lettuce'])
-sand_maker(items=['cheese,lettuce,tomatoes,ham'])
+sand_maker(items=['cheese,lettuce,tomatoes,ham']) 
